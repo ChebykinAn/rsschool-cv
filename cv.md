@@ -5,7 +5,7 @@
 ## About me
 I am 33 years old. I want to become frontend developer. I have bussnes, but i want to get new major.
 ## Skills
-- HTML
+- HTMgiL
 - css
 ## Experiense
 municipal
@@ -13,4 +13,5 @@ municipal
 high lawyer university 
 ## Languege
 - Russian - native
+- Ukrainian - advanced
 - English - Beginner
