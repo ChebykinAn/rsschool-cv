@@ -1,1 +1,1 @@
-https://GChebykinAn.github.io/rsschool-cv/
+https://ChebykinAn.github.io/rsschool-cv/
